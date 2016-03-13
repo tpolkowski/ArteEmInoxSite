@@ -43,3 +43,27 @@ C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox
 C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\Content\Images\3.jpg
 C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\Content\Images\4.jpg
 C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\Content\Images\Logo.jpg
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\Content\Images\2.jpg
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\Content\Images\3.jpg
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\Content\Images\4.jpg
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\Content\Images\Logo.jpg
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\SiteBruno.dll.config
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\SiteBruno.dll
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\SiteBruno.pdb
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\EntityFramework.dll
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.Mvc.dll
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.Providers.dll
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.WebPages.dll
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.WebPages.Razor.dll
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.Razor.dll
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\EntityFramework.xml
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.Mvc.xml
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.WebPages.xml
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.WebPages.Razor.xml
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.Razor.xml
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\obj\Debug\SiteBruno.csprojResolveAssemblyReference.cache
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\obj\Debug\SiteBruno.dll
+C:\Users\Toni Polkowski\Documents\ProjetosVisualStudio\ArteEmInoxSite\SiteBruno\obj\Debug\SiteBruno.pdb

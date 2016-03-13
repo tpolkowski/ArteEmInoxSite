@@ -11,7 +11,6 @@ namespace SiteBruno.Controllers
     {
         //
         // GET: /Fotos/
-
         public ActionResult Index()
         {
             var viewModel = new CorrimaoViewModel();

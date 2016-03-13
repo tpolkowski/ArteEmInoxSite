@@ -1,1 +1,17 @@
-﻿
+﻿@using SiteBruno.Models;
+@model SiteBruno.Models.ServicosViewModel
+@{
+    ViewBag.Title = "Servicos";
+}
+
+
+@foreach (var item in Model.Servicos)
+{
+    <div class="col-xs-4" style="text-align: center">
+        <h2>@item.Nome</h2>
+        <a class="fancybox" rel="gallery1" href="@Url.Action(@item.ActionName,@item.ControllerName)" title="@item.Nome">
+            <img class="col-xs-12" src="/Content/Images/@item.Imagem" alt=""/>
+        </a>
+        @item.Descricao
+    </div>
+}

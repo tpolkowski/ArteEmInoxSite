@@ -12,11 +12,10 @@
         <a class="col-xs-2 botaoMenuPrincipal" id="botaoEmpresa" href="@Url.Action("Index", "Empresa")">Empresa</a>
         <a class="col-xs-2 botaoMenuPrincipal" id="botaoServicos" href="@Url.Action("Index", "Servicos")">Serviços</a>
         <a class="col-xs-2 botaoMenuPrincipal" id="botaoFotos" href="@Url.Action("Index", "Fotos")">Fotos</a>
-        <a class="col-xs-2 botaoMenuPrincipal" id="botaoContato" href="@Url.Action("Index", "Contato")">Contato</a>
+        <a class="col-xs-2 botaoMenuPrincipal" href="@Url.Action("Index", "Contato")" id="botaoContato">Contato</a>
        
     </div>
 </div>
-
 
 @{
     var currentUrl = (Request.Url != null ? Request.Url.AbsoluteUri : "");

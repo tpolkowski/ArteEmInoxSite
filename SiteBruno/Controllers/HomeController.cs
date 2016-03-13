@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.EnterpriseServices;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -17,11 +16,6 @@ namespace SiteBruno.Controllers
             viewModel.Imagens.Add("3.jpg");
             viewModel.Imagens.Add("4.jpg");
             return View(viewModel);
-        }
-
-        public ActionResult About()
-        {
-            return View();
         }
     }
 }

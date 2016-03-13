@@ -10,11 +10,9 @@ namespace SiteBruno.Controllers
     {
         //
         // GET: /Contato/
-
         public ActionResult Index()
         {
             return View();
         }
-
     }
 }

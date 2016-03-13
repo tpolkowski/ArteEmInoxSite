@@ -1,0 +1,108 @@
+﻿@using SiteBruno.Models
+@model SiteBruno.Models.HomeViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<style>
+    .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {
+        width: 100%;
+        margin: auto;
+    }
+</style>
+
+
+
+
+<div id="HomeCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        @{
+            for (var i = 0; i < Model.Imagens.Count; i++)
+            {
+                if (i == 0)
+                {
+            <li data-target="#HomeCarousel" data-slide-to="@i" class="active"></li>
+                }
+                else
+                {
+            <li data-target="#HomeCarousel" data-slide-to="@i"></li>
+                }
+
+            }
+        }
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        @{
+            for (var i = 0; i < Model.Imagens.Count; i++)
+            {
+                if (i == 0)
+                {
+            <div class="item active">
+                <a href="../../Content/Images/@Model.Imagens[i]">
+                    <div class="col-xs-12" style="position: absolute; text-align: center; font-size: 50px; color: white; vertical-align: middle;">olá </div>
+
+                </a>
+                <img src="/Content/Images/@Model.Imagens[i]">
+            </div>
+                }
+                else
+                {
+            <div class="item">
+                 <a href="../../Content/Images/@Model.Imagens[i]">
+                    <img src="/Content/Images/@Model.Imagens[i]">
+                </a>
+            </div>
+                }
+            }
+        }
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#HomeCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Anterior</span>
+    </a>
+    <a class="right carousel-control" href="#HomeCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Próximo</span>
+    </a>
+</div>
+
+<div style="background-color: black; height: 30px;">
+</div>
+<div style="padding-top: 30px">
+    <div class="col-xs-10 col-xs-offset-1">
+        <div class="col-xs-4" style="text-align: center">
+            <h2>coluna 1</h2>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        </div>
+        <div class="col-xs-4" style="text-align: center">
+           <h2>coluna 2</h2>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        </div>
+        <div class="col-xs-4" style="text-align: center">
+            <h2>coluna 3</h2>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    debugger;
+    $(window).resize(function () {
+        var altura = $(window).height() - 210;
+        $('.item').height(altura);
+    });
+    var altura = $(window).height() - 210;
+    $('.item').height(altura);
+
+
+    
+
+
+</script>

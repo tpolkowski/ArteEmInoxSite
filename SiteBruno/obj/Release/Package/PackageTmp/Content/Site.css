@@ -1,0 +1,94 @@
+﻿/*LAYOUT PRINCIPAL*/
+
+body {
+    -ms-background-size: 70% auto;
+    background-attachment: local;
+    background-position: center !important;
+    background-repeat: no-repeat;
+    background-size: 70% auto;
+    min-height: 100% !important;
+    overflow-x: hidden !important;
+    overflow-y: inherit !important;
+}
+
+    body > .geral1 {
+        background: rgb(226, 226, 226); /* Old browsers */
+        background: -moz-linear-gradient(top, rgba(226, 226, 226, 1) 0%, rgba(255, 255, 255, 1) 42%, rgba(255, 255, 255, 1) 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(226, 226, 226, 1)), color-stop(42%, rgba(255, 255, 255, 1)), color-stop(100%, rgba(255, 255, 255, 1))); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top, rgba(226, 226, 226, 1) 0%, rgba(255, 255, 255, 1) 42%, rgba(255, 255, 255, 1) 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top, rgba(226, 226, 226, 1) 0%, rgba(255, 255, 255, 1) 42%, rgba(255, 255, 255, 1) 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top, rgba(226, 226, 226, 1) 0%, rgba(255, 255, 255, 1) 42%, rgba(255, 255, 255, 1) 100%); /* IE10+ */
+        background: linear-gradient(to bottom, rgba(226, 226, 226, 1) 0%, rgba(255, 255, 255, 1) 42%, rgba(255, 255, 255, 1) 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e2e2e2', endColorstr='#ffffff', GradientType=0); /* IE6-9 */
+        min-height: 100%;
+        min-width: 100%;
+        overflow-x: auto;
+        position: absolute;
+    }
+
+        body > .geral1 > .cabecalho {
+            /*margin-bottom: 15px;*/
+            margin-top: 0;
+            /*padding: 3px;*/
+            
+        }
+
+            body > .geral1 > .cabecalho > div > div > a{
+                text-decoration: none;
+                color: white;
+            }
+            
+            body > .geral1 > .cabecalho > div > div > a:hover {
+                text-decoration: none;
+                font-weight: 700;
+                color: white;
+                font-size: 20px;
+            }
+
+            .ativo,
+            body > .geral1 > .cabecalho > div > div > a:active {
+                text-decoration: none;
+                color: white;
+                font-weight: 900;
+                font-size: 20px;
+            }
+
+        body > .geral1 > .conteudo {
+            margin-bottom: 200px;
+            min-height: 500px;
+            min-width: 100%;
+            overflow: hidden;
+            overflow-y: hidden !important;
+            position: relative;
+        }
+
+        body > .geral1 > .rodape {
+            background-color: black;
+            bottom: 0 !important;
+            min-height: 40px;
+            padding-right: 7px;
+            position: absolute !important;
+            width: 100% !important;
+        }
+
+.logoempresa {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 110px;
+    /*margin-left: -80px;*/
+    background-image: url("..\\Content\\Images\\Logo.jpg");
+}
+
+.botaoMenuPrincipal {
+    text-align: center;
+}
+
+.row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.fancybox-lock .fancybox-overlay {
+    overflow: hidden !important;
+}

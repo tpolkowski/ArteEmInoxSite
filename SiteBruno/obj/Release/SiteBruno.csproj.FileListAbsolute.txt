@@ -1,0 +1,47 @@
+D:\Toni\SiteBruno\SiteBruno\bin\SiteBruno.dll
+D:\Toni\SiteBruno\SiteBruno\bin\SiteBruno.pdb
+D:\Toni\SiteBruno\SiteBruno\bin\EntityFramework.dll
+D:\Toni\SiteBruno\SiteBruno\bin\Microsoft.Web.Infrastructure.dll
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.Helpers.dll
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.Mvc.dll
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.Providers.dll
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.Razor.dll
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.WebPages.Deployment.dll
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.WebPages.dll
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.WebPages.Razor.dll
+D:\Toni\SiteBruno\SiteBruno\bin\EntityFramework.xml
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.Helpers.xml
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.Mvc.xml
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.Razor.xml
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.WebPages.xml
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.WebPages.Deployment.xml
+D:\Toni\SiteBruno\SiteBruno\bin\System.Web.WebPages.Razor.xml
+D:\Toni\SiteBruno\SiteBruno\obj\Release\SiteBruno.csprojResolveAssemblyReference.cache
+D:\Toni\SiteBruno\SiteBruno\obj\Release\SiteBruno.dll
+D:\Toni\SiteBruno\SiteBruno\obj\Release\SiteBruno.pdb
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\Content\Images\2.jpg
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\Content\Images\3.jpg
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\Content\Images\4.jpg
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\Content\Images\Logo.jpg
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\SiteBruno.dll.config
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\SiteBruno.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\SiteBruno.pdb
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\EntityFramework.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.Helpers.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.Mvc.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.Providers.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.Razor.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.WebPages.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.WebPages.Razor.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\EntityFramework.xml
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.Helpers.xml
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.Mvc.xml
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.Razor.xml
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.WebPages.xml
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\bin\System.Web.WebPages.Razor.xml
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\obj\Release\SiteBruno.csprojResolveAssemblyReference.cache
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\obj\Release\SiteBruno.dll
+C:\Users\Toni Polkowski\OneDrive\Documentos\Visual Studio 2015\Projects\ArteInox\SiteBruno\obj\Release\SiteBruno.pdb
